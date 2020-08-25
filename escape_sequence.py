@@ -1,0 +1,5 @@
+print("line A\nline b\n line C") 
+print("name\tkaushik") 
+print("this is \ backslash") 
+print("amit is a good boy\\\\")
+print("hell\blo")

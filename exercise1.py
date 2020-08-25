@@ -1,0 +1,6 @@
+# number1=int(input("enter 1st num:"))
+# number2=int(input("enter 2nd num:"))
+# number3=int(input("enter 3rd num:"))
+# print((number1+number2+number3)/3)
+number1,number2,number3 =input("enter three numbers comma separated").split(",")
+print(f"average of three num is: {(int(number1) + int(number2) + int(number3))/3}")

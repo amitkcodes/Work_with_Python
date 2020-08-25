@@ -1,0 +1,2 @@
+print("AMIT 'KAUSHIK' KAUSHIK")
+print('AMIT "KAUSHIK" KAUSHIK')
